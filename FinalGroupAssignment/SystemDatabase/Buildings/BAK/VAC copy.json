@@ -1,0 +1,21 @@
+{
+	"name": "John Labatt Visual Arts Centre",
+	"description": "John Labatt Visual \nArts Centre in Western \nUniversity, Ontario",
+	"code": "VAC",
+	"maps": [{
+			"name": "Floor 1",
+			"visible": "1",
+            "layers":["classroom", "navigation","washroom"]
+		},
+		{
+			"name": "Floor 2",
+			"visible": "1",
+            "layers":["classroom", "navigation", "washroom"]
+		},
+		{
+			"name": "Floor 3",
+			"visible": "1",
+            "layers":["classroom","washroom"]
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"buildings": [
+        {
+			"name": "Middlesex C.",
+            "code": "MC",
+			"visible": "0"
+		},
+		{
+			"name": "Visual Arts C.",
+            "code": "VAC",
+			"visible": "1"
+		},
+		{
+			"name": "Lawson Hall",
+            "code": "LH",
+			"visible": "1"
+		},
+		{
+			"name": "Western Science C.",
+            "code": "WSC",
+			"visible": "1"
+		},
+		{
+			"name": "Alumni Hall",
+            "code": "AH",
+			"visible": "1"
+		}
+	]
+}

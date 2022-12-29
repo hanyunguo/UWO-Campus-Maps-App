@@ -1,0 +1,26 @@
+{
+	"name": "Lawson Hall",
+	"description": "Stevenson-Lawson \nBuilding in Western \nUniversity, Ontario",
+	"code": "LH",
+	"maps": [{
+			"name": "Floor 1",
+			"visible": "1",
+            "layers":["classroom", "navigation","washroom"]
+		},
+		{
+			"name": "Floor 2",
+			"visible": "1",
+            "layers":["classroom", "navigation", "washroom"]
+		},
+		{
+			"name": "Floor 3",
+			"visible": "1",
+            "layers":["classroom", "navigation","washroom"]
+		},
+        {
+			"name": "Floor 4",
+			"visible": "1",
+            "layers":["classroom", "navigation","washroom"]
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Alumni Hall",
+	"description": "Auditorium in Western \nUniversity, Ontario",
+	"code": "AH",
+	"maps": [{
+			"name": "Floor 1",
+			"visible": "1",
+            "layers":["classroom", "navigation"]
+		},
+		{
+			"name": "Floor 2",
+			"visible": "0",
+            "layers":["classroom", "navigation", "washroom"]
+		},
+		{
+			"name": "Floor 3",
+			"visible": "1",
+            "layers":["classroom", "navigation", "special room"]
+		}
+	]
+}

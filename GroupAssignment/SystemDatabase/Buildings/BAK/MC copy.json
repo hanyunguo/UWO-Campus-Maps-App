@@ -1,0 +1,31 @@
+{
+	"name": "Middlesex College",
+	"description": "Middlesex College, \nDepartment of Mathematics \nand Computer Science, \nin Western University, \nOntario",
+	"code": "MC",
+	"maps": [{
+			"name": "Floor 1",
+			"visible": "1",
+            "layers":["classroom", "navigation", "washroom"]
+		},
+		{
+			"name": "Floor 2",
+			"visible": "1",
+            "layers":["classroom", "navigation"]
+		},
+		{
+			"name": "Floor 3",
+			"visible": "1",
+            "layers":["classroom", "navigation", "washroom"]
+		},
+		{
+			"name": "Floor 4",
+			"visible": "0",
+            "layers":["classroom", "navigation"]
+		},
+		{
+			"name": "Floor 5",
+			"visible": "1",
+            "layers":["classroom", "navigation"]
+		}
+	]
+}

@@ -1,0 +1,3 @@
+MC, Middlesex College Buildings
+NCB, North Campus Building
+AH, Alumni Hall
