@@ -1,12 +1,18 @@
-# UWO-Campus-Maps-App
+# 🗺️ UWO Campus Maps App
 
-# Project Setup Guide
+Welcome to the UWO Campus Maps App project! 🚀 This application is your ultimate guide to navigating the intricate interiors of University of Western Ontario buildings. Whether you're a student trying to find your next class, a visitor exploring the campus, or anyone in between, this app has got you covered! 🏫✨
+
+## Project Setup Guide
+
+This README provides a comprehensive guide to setting up and running the UWO Campus Maps App. If you're ready to embark on this journey with us, follow the steps below and get started! 🛠️🔍
 
 ## Overview
 
-This project aims to create an application that leverages the floor plans of University of Western Ontario buildings to assist users in navigating interior spaces. The application allows users to search for rooms, locate points of interest, and create their own points of interest. This README provides instructions on setting up and running the project.
+This innovative application utilizes the floor plans of UWO buildings, empowering users to seamlessly search for rooms, discover points of interest, and even mark their personalized points of interest. With our user-friendly interface and detailed maps, navigating the university spaces has never been this easy and enjoyable. 🎉
 
-For more detail about the project, please check out [Design Documentation](https://github.com/hanyunguo/UWO-Campus-Maps-App/blob/main/Design%20Document%20uwo.pdf) for the project.
+For in-depth insights into the project, dive into our [Design Documentation](https://github.com/hanyunguo/UWO-Campus-Maps-App/blob/main/Design%20Document%20uwo.pdf) and explore the project's vision, features, and more.
+
+Let's get started! Feel free to reach out if you have any questions or need assistance along the way. Happy mapping! 🌍🔍
 
 ## Development Environment
 
