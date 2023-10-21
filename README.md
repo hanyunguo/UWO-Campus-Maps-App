@@ -1,4 +1,4 @@
-# 🗺️ UWO Campus Maps App
+# 🗺️ University of Western Ontario (UWO) Campus Maps App
 
 Welcome to the UWO Campus Maps App project! 🚀 This application is your ultimate guide to navigating the intricate interiors of University of Western Ontario buildings. Whether you're a student trying to find your next class, a visitor exploring the campus, or anyone in between, this app has got you covered! 🏫✨
 
